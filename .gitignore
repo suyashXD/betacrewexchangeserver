@@ -1,0 +1,42 @@
+# __MACOSX folder
+__MACOSX/
+
+# .vscode folder
+.vscode
+
+# .NET artifacts
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.vscode
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio files
+.vscode/
+*.sln.ide
+*.suo
+*.user
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.pfx
+*.snk
+
