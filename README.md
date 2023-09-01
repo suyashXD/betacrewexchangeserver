@@ -12,23 +12,23 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/suyashxd/betacrewexchangeserver.git
 
-# 2. Navigate to the project directory
+### 2. Navigate to the project directory
 cd betacrewexchangeserver
 
-# 3. Start the Betacrew Exchange Server
+### 3. Start the Betacrew Exchange Server
 cd betacrew_exchange_server
 node main.js
 
-# 4. Open a new terminal window (keep the server running in the previous terminal)
+### 4. Open a new terminal window (keep the server running in the previous terminal)
 cd ../client
 
-# 5. Build and run the C# client
+### 5. Build and run the C# client
 dotnet run
 
-# 6. To stop the server, simply press Ctrl + C in the terminal where the server is running
+### 6. To stop the server, simply press Ctrl + C in the terminal where the server is running
 
 ## Result
 
