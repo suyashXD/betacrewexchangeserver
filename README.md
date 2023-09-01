@@ -5,11 +5,13 @@ This repository contains code for a Betacrew Exchange Server and a C# client for
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-Note: This project was developed and tested on a Windows-based environment.
+
 
 - Node.js (v16.17.0 or higher)
 - .NET Core SDK (v7.0.400)
 - Git
+
+Note: This project was developed and tested on a Windows-based environment.
 
 ## Installation
 
