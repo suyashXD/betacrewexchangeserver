@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 - Node.js (v16.17.0 or higher)
-- .NET Core SDK (v7.0.400)
+- .NET Visual Studio 2022 SDK (v7.0.400)
 - Git
 
 Note: This project was developed and tested on a Windows-based environment.
